@@ -1,14 +1,14 @@
-#Superstore Sales Analysis
+# Superstore Sales Analysis
 
 An end-to-end sales and profitability analysis project built using Excel and Power BI to identify business trends, product performance, state-level profitability, and customer segment contribution.
 
-📊 Dashboard Preview
+## 📊 Dashboard Preview
 
 "Superstore Analytics Dashboard" (dashboard.png)
 
 The Power BI dashboard provides an interactive overview of sales, profit, returned orders, product profitability, state-level performance, and sales distribution across customer segments.
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
 - Analyze overall sales and profit performance
 - Compare current-year performance with the previous year
@@ -17,14 +17,14 @@ The Power BI dashboard provides an interactive overview of sales, profit, return
 - Understand sales contribution by customer segment
 - Present business insights through an interactive Power BI dashboard
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Microsoft Excel – Data preparation and analysis
 - Power BI – Data modeling, visualization, and dashboard development
 - DAX – Measures and calculations
 - GitHub – Project documentation and version control
 
-📈 Key Performance Indicators
+## 📈 Key Performance Indicators
 
 KPI| Value
 Total Sales| $2.30M
@@ -33,7 +33,7 @@ Returned Orders| 5.91%
 Sales vs Previous Year| +46.8%
 Profit vs Previous Year| +48.4%
 
-🔍 Analysis Performed
+## 🔍 Analysis Performed
 
 Sales & Profit Analysis
 
@@ -60,7 +60,7 @@ Customer Segment Analysis
 - Analyzed sales distribution across customer segments
 - Identified the segment contributing the largest share of sales
 
-💡 Key Insights
+## 💡 Key Insights
 
 - The business generated approximately $2.30M in sales and $286.40K in profit.
 - Sales increased by approximately 46.8% compared with the previous year.
@@ -70,7 +70,7 @@ Customer Segment Analysis
 - Profitability differs across states, highlighting regional performance variations.
 - The Consumer segment contributes the largest share of sales.
 
-❓ Business Questions
+## ❓ Business Questions
 
 1. How are sales and profit performing compared with the previous year?
 2. Which products generate the highest profit?
@@ -80,7 +80,7 @@ Customer Segment Analysis
 6. Which customer segment contributes the most sales?
 7. What trends can be identified from sales performance over time?
 
-📂 Project Files
+## 📂 Project Files
 
 File| Description
 "Sample - Superstore.xls"| Superstore dataset
@@ -93,10 +93,10 @@ File| Description
 "highest_profit_state.png"| Highest-profit state analysis
 "lowest_profit_state.png"| Lowest-profit state analysis
 
-🚀 Skills Demonstrated
+## 🚀 Skills Demonstrated
 
 Data Analysis · Excel · Power BI · DAX · Data Visualization · Data Modeling · Business Intelligence · GitHub
 
-📌 Project Outcome
+## 📌 Project Outcome
 
 This project demonstrates the process of transforming raw sales data into actionable business insights using data analysis, data modeling, and interactive visualization.
